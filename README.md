@@ -1,2 +1,2 @@
 # Ineuron-Assignments
-This repository contains my solved assignments from Ineuron FSDS course.
+This repository contains my solved assignments of python from Ineuron FSDS course.
